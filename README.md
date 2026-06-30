@@ -1,2 +1,3 @@
-#Conclusion
+# Emotion Detection & Learning Support Engine
+##Conclusion
 The project has successfully developed an AI-Powered Learning Assistant that detects student emotions using advanced neural models (BiLSTM and BERT) and provides empathetic, Gemini-driven guidance. Built on a robust, modular architecture with a user-friendly Streamlit interface and comprehensive analytics, the platform effectively helps students feel understood while supporting educators with data insights. It establishes a powerful foundation for future educational enhancements like multilingual support, voice inputs, and deeper learning management system integrations.
